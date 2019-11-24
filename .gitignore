@@ -1,0 +1,6 @@
+## JetBrains Rider specific
+.idea/
+
+bin/
+obj/
+/packages/
